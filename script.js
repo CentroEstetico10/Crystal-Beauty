@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
             desc: "Ciao a tutti, sono Sofia. Mi piace ascoltare gli altri e sono sempre disponibile per offrire supporto e consigli. La gentilezza per me è un valore fondamentale. Sono molto paziente, ma un po’ meno quando mi capita di incrociare qualcuno di incompetente alla guida... Questo devo ammetterlo! 😅 Cerco di diffondere positività e creatività ovunque io vada!"
         },
         Yilena: {
-            title: "Yilena",
+            title: "Ylenia",
             desc: "Ciao, sono Ylenia! 😊 Sono una persona semplice, determinata, solare e sempre positiva. Specializzata in trattamenti viso, corpo, mani e piedi... La mia più grande passione è curare ogni dettaglio per farvi sentire speciali. Essere estetista non è un semplice lavoro ma una scelta di vita."
         }
     };
